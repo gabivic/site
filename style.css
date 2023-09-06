@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+bory{
+    font-family: 'Caveat Brush', cursive;
+}
+
 .cabecalho {
     background-color: rgb(128, 173, 240);
     color: rgb(93, 93, 243);
@@ -11,6 +15,12 @@
     align-items: center;
     padding: 24px 0;
 }
+<<<<<<< HEAD
+
+img{
+    
+}
+=======
 
 .cabecalho-imagem{
     width: 20%;
@@ -40,4 +50,16 @@
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+.nacional-imagem{
+    width: 130px;
+}
+
+.nacional-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
 }
