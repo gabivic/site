@@ -8,7 +8,7 @@ bory{
 }
 
 .cabecalho {
-    background-color: rgb(128, 173, 240);
+    background-color: rgb(128, 173, 240) rgb(93, 93, 243);
     color: rgb(93, 93, 243);
     display: flex;
     justify-content: space-around;
@@ -20,6 +20,8 @@ bory{
 img{
     
 }
+
+   .nacional-icone{ background-color: rgb(24, 120, 158) rgb(89, 0, 255);}
 
 
 .cabecalho-imagem{
